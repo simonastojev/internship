@@ -1,1 +1,1 @@
-.
+# Internship in Schneider Electric
